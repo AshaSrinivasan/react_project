@@ -1,0 +1,479 @@
+#top {
+    color: white;
+    font-size: 16px;
+    font-family: normal;
+    font-weight: bold;
+    font-style: normal;
+    letter-spacing: 0px;
+    text-align: left;
+    text-transform: capitalize;
+    display: grid;
+}
+
+#parent {
+    display: grid;
+    grid-template-columns: 30% 10% 10% 10% 10% 10% 10%;
+    text-align: center;
+    background-color: blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#child {
+    background-color: rgb(255, 192, 192);
+    color: white;
+}
+
+#elegant {
+    text-align: center;
+
+
+}
+
+#pricing {
+    background-color: white;
+    color: pink;
+}
+
+#up {
+    display: grid;
+    background-color: blueviolet;
+    grid-template-columns: 50% 50%;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#button {
+    background-color: pink;
+    color: white;
+}
+
+#div {
+    text-align: center;
+    background-color: white;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#blue {
+    color: blue;
+}
+
+#bold {
+    color: black;
+    font-weight: bold;
+}
+
+#lighter {
+    color: black;
+}
+
+#view {
+    display: grid;
+    text-align: center;
+}
+
+#pink {
+    background-color: blue;
+    color: white;
+    margin-bottom: 30px;
+}
+
+#photo {
+    background-color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#parents {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 5px;
+    text-align: center;
+    background-color: white;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#black1 {
+    color: black;
+    font-weight: bold;
+}
+
+#black2 {
+    color: black;
+    font-weight: bold;
+
+}
+
+#black3 {
+    color: black;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+#black4 {
+    color: black;
+    font-weight: bold;
+}
+
+#black5 {
+    color: black;
+    font-weight: bold;
+}
+
+#black6 {
+    color: black;
+    font-weight: bold;
+}
+
+#button {
+    text-align: center;
+    background-color: blue;
+    color: white;
+
+}
+
+#build3 {
+    text-align: center;
+    background-color: white;
+    color: blue;
+    text-overflow: ellipsis;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
+#bule1 {
+    color: blue;
+}
+
+#bold2 {
+    color: black;
+    font-weight: bold;
+}
+
+#lighter {
+    color: black;
+}
+
+#design {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#most {
+    color: blue;
+}
+
+#bnm {
+    color: black;
+}
+
+#explore {
+    background-color: blue;
+    color: white;
+}
+
+#custemer {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#blue9 {
+    color: blue;
+}
+
+#every {
+    color: black;
+}
+
+#noncode {
+    background-color: blue;
+    color: white;
+}
+
+#free {
+    display: grid;
+    grid-template-columns: auto;
+    text-align: center;
+    background-color: blue;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#for {
+    color: white;
+    text-align: center;
+}
+
+#lan {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+    background-color: blue;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#web {
+    color: white;
+    font-weight: bold;
+}
+
+#you {
+    color: white;
+}
+
+#age {
+    color: white;
+    font-weight: bold;
+}
+
+#me {
+    color: white;
+}
+
+#own {
+    color: white;
+    font-weight: bold;
+}
+
+#easy {
+    color: white;
+}
+
+#pro {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#yellow {
+    color: yellow;
+    font-weight: bold;
+}
+
+#bold {
+    color: black;
+}
+
+#pur {
+    background-color: rgb(70, 43, 226);
+    color: white;
+}
+
+#orange {
+    background-color: orangered;
+    color: white;
+    margin-top: 10px;
+}
+
+#yel {
+    background-color: yellow;
+    color: white;
+    margin-top: 10px;
+}
+
+#sell {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#green {
+    color: rgb(21, 128, 0);
+}
+
+#bla {
+    color: black;
+    font-weight: bold;
+}
+
+#gr {
+    background-color: green;
+    color: white;
+}
+
+#show {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#sky {
+    color: skyblue;
+}
+
+#as {
+    color: black;
+    font-weight: bold;
+}
+
+#ha {
+    color: white;
+    background-color: skyblue;
+}
+
+#engage {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#or {
+    color: orangered;
+}
+
+#bl {
+    color: black;
+    font-weight: bold;
+}
+
+#ra {
+    color: white;
+    background-color: orangered;
+}
+
+#power {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+    margin-top: 30px;
+    background-color: greenyellow;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#wh {
+    color: white;
+}
+
+#ab {
+    color: white;
+}
+
+#cd {
+    color: white;
+}
+
+#ba {
+    background-color: white;
+}
+
+#br {
+    color: rgb(0, 4, 255);
+}
+
+#vi {
+    background-color: blue;
+    color: white;
+}
+
+#take {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#xz {
+    color: blue;
+}
+
+#qw {
+    background-color: blue;
+    color: white;
+}
+
+#market {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#the {
+    color: blueviolet;
+}
+
+#bu {
+    background-color: blueviolet;
+    color: white;
+    margin-right: 10px;
+}
+
+#to {
+    background-color: blueviolet;
+    color: white;
+}
+
+#extend {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#ex {
+    color: darkred;
+}
+
+#pq {
+    background-color: darkred;
+    color: white;
+}
+
+#cus {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#item {
+    background-color: green;
+    color: white;
+}
+
+.top {
+    padding-bottom: 150px;
+}
+
+.bottom {
+    padding-top: 150px;
+}

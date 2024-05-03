@@ -1,0 +1,104 @@
+#flex{
+    display: grid;
+    grid-template-columns: 55% 40% ;
+    height: 500px;
+}
+#flex3{
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 180px;
+}
+#cblue{
+    color: #3f6ad8;
+}
+#font2{
+    padding-left:20px ;
+    padding-right: 20px;
+    color: white;
+    font-size: 1rem;
+    opacity: .7;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 400;
+    font-size: 1.1rem;
+    opacity: .7;
+    color: #eeeeee;
+    text-align: center;
+}
+#font1{
+    color: white;
+    font-size: 1.75rem;
+    font-weight: normal;
+    font-size: 1.85rem;
+    font-weight: normal;
+    
+    color: #eeeeee;
+    margin-bottom: 1.5rem;
+    opacity: .9;
+    font-family: inherit;
+    line-height: 1.2;
+   
+}
+#but{
+    background-color:gray ;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius:25px ;
+    margin-left: 100px;
+    padding-left:30px ;
+    padding-right: 35px;
+}
+#blue{
+    color: #3f6ad8;
+    font-size: 1.25rem;
+}
+#term{
+    margin-top: 15px;
+}
+#term2{
+    font-size: 1.25rem;
+    color: gray;
+}
+
+#para1{
+    font-size: 1.1rem;
+    font-weight: normal;
+    color: inherit;
+}
+#flex4{
+    background-color: #764ba2;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#div1{
+    padding-top: 150px;
+    position: relative;
+}
+.big{
+    padding: 10px;
+    padding-right: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 0.88rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+}
+#step1{
+    padding-right: 30px;
+}
+#flex2{
+    padding-top: 80px;
+    padding-left: 80px;
+}
+#wel{
+    color: gray;
+    font-size: 1.5rem;
+}
+#gree{
+    color: #3ac47d;
+    font-size: 1.5rem;
+
+}
+
+

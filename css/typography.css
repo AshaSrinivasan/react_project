@@ -1,0 +1,18 @@
+p{
+    color:red;
+    font-size: 16px;
+    font-family: system-ui;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 5px;
+    word-spacing: 20px;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-shadow: 10px 0px 0px greenyellow;
+    white-space: nowrap;
+    width:400px;
+    overflow:hidden;
+    text-overflow:clip
+    
+}

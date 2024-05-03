@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 300;
+    box-sizing: border-box;
+    font-family: 'Roboto',sans-serif;;
+}
+body{
+    background-color: #fff;;
+    color: #fff;;
+}
+#shine{
+    width: 100%;
+    height: 700px;
+    background-image: url(../images/shine1.jpeg) ;
+    background-size: cover;
+    background-position: center;
+} 
+#shine h1{
+    text-align: center;
+    font-size: 130px;
+   padding-top: 10%;
+   margin-bottom: 20px;
+   font-family: 'Open Sans',sans-serif;
+    font-weight: 300;
+}
+
+.shine1{
+    text-align: center;
+    font-size: 180;
+}
+.shine1 p{
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+#font_size{
+    font-size: 49px;
+}
+.welcome{
+    display: flex;
+    grid-template-columns: auto auto auto;
+    margin-right: 20px;
+    background-color: #fff;;
+    color: black;
+    font-family: inherit;
+    margin-top: 60px;
+    margin-bottom: 80px;
+    padding-top: 50px;
+    margin-left: 20px;
+    padding-left: 150px;
+    font-family: 'Roboto',sans-serif;
+    font-size: 16px;
+
+}
+.welcome p{
+    font-family:sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+}
+.incident{
+    margin-right: 10px;
+}
+.welcome h3{ 
+    font-size: 22px;
+    padding-top: 35px;
+    text-align: center;
+    padding-bottom: 25px;
+    margin-bottom: 0;
+    margin-left: 95px;
+    
+}
+.welcome img{
+    text-align: center;
+    margin-left: 100px;
+    padding: 30px;
+}
+.welcome p{
+    display: block;
+    margin: 0 0 10px;
+    padding-left: 15px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-left: 60px;
+}
+.white{
+    width: 100%;
+    height: 90%;
+    background-image: url(../images/shine2.jpeg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 80px;
+
+}
+#form_below{
+    text-align: center;
+}
+.from_control{
+    margin-top: 50px;
+    display: inline-block;
+    border: 1px solid #fff;
+    width: 320px;
+    background: none repeat scroll 0 0 rgba(255,255,255,0.5);
+    border-radius: 0;
+    box-shadow: none;
+    height: 57px;
+    padding-left: 20px;
+}
+.sign_up{
+    font-size: 45px;
+    padding-top: 35px;
+    text-align: center;
+    padding-bottom: 16px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.white h5{
+    font-size: 25px;
+}
+.button_low{
+    display: inline-block;
+    background: none repeat scroll 0 0 rgba(22,182,234,0.5);
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 0;
+    box-shadow: none;
+    width: 100px;
+    height: 57px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.button_low:hover{
+    background-color: blue;
+    color: white;
+
+}
+
+button{
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+#text_center{
+    text-align: center;
+    margin: 0 0 10px;
+    padding: o;
+    background-color: #fff;
+    color: black;
+    margin-top: 60px;
+    font-size: 19px;
+    margin-bottom: 30px;
+}
+.from_control01{
+    background: none repeat scroll 0 0 rgba(255,255,255,0.5);
+    border-radius: 0;
+    box-shadow: none;
+    height: 57px;
+    padding-left: 20px;
+    display: block;
+    width: 100%;
+    padding: 6px 12px;
+    font-size: 14px;
+   
+    
+    
+}
+
+
+#over_flow:active{
+    background-color: white;
+    color: skyblue;
+}
+
+#name{
+    text-align: left;
+    margin-left: 415px;
+    padding: 25px;
+    padding-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    width: 25%;
+   
+}
+#name:active{
+    border: 1px solid skyblue;
+    color: skyblue;
+}
+.form-control01:hover{
+    border: 1px solid skyblue;
+
+}
+
+#email{
+    padding-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    width: 25%;
+}
+#phone{
+    margin-left: 90px;
+    padding: 25px;
+    padding-left: 100px;
+    width: 56%;
+    margin-bottom: 20px;
+
+}
+#comment{
+    margin-left: 90px;
+    padding: 30px;
+    padding-left: 100px;
+    width: 56%;
+
+}
+#over_flow{
+    display: flex;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+    border: 1px o skyblue;
+}
+.button-lew{
+    background: none repeat scroll 0 0 rgba(22,182,234,0.5);
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 0;
+    box-shadow: none;
+    height: 57px;
+    padding-left: 18px;
+    padding-right: 18px;
+    text-align: center;
+
+}
+
+#color-button{
+    text-align: center; margin-top: 20px;
+    margin-bottom: 20px;
+}
+.button-lew:hover{
+    background-color: blue;
+    color: white;
+}

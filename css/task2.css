@@ -1,0 +1,41 @@
+
+#parent{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    height: 700px;
+    grid-gap: 5px;
+
+}
+#red{
+    background-color: green;
+    height: 85%; 
+}
+#top{
+    background-color: orange;
+    height: 85px;
+}
+#inner_parent{
+    display: grid;
+    grid-template-columns: auto;
+    
+}
+#blue{
+    background-color: blue;
+    height: 50px;
+}
+#outer_parent{
+    display: grid;
+    grid-template-columns: auto auto;
+
+}
+
+#brown{
+    background-color: red;
+    height: 50px;
+
+}
+#red{
+    background-color: green;
+    height: 50px;
+
+}

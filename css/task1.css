@@ -1,0 +1,33 @@
+#top{
+    display: grid;
+    grid-template-columns: 90%;
+    justify-content: space-evenly;
+    gap: 5px;
+}
+#orange2{
+    background-color: orange;
+    
+}
+.child2{
+   height: 100px;
+
+}
+#parent{
+    display: grid;
+    grid-template-columns: 30% 65%;
+    justify-content: space-between;
+    grid-gap: 5px;
+   
+}
+#green2{
+    background-color: green;
+}
+#red2{
+    background-color: red;
+}
+#litegreen{
+    background-color: lightgreen;
+}
+#colourchange{
+    background-color: black;
+}

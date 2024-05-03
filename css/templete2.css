@@ -1,0 +1,376 @@
+#hony0 {
+    display: grid;
+    text-align: center;
+    text-transform: capitalize;
+    color: #fff;
+    grid-template-columns: 30% 70%;
+    font-size: 14px;
+    font-family: Poppins, sans-serif;
+    line-height: 1.80857;
+    font-weight: 400;
+    background: url(../images/body_bg.png);
+  
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#html {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.image {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+.logo{
+    margin-right: 30%;
+}
+.done{
+    padding-top: 25%;
+    margin-right: 50%;
+}
+
+
+#asha {
+    position: relative;
+    height: 700px;
+    width: 100%;
+
+}
+#asha>img{
+    width: 100%;
+}
+
+#ash2 {
+    position: absolute;
+    top: 5px;
+    padding: 10px;
+}
+
+#home {
+    color: red;
+}
+
+#call {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+
+}
+
+#down {
+    display: grid;
+    grid-template-columns: 60% 40%;
+
+    padding: 20px;
+}
+
+#down p {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    color: #fff;
+    padding-bottom: 59px;
+}
+
+#honey p {
+    color: #303030;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    padding-bottom: 59px
+}
+
+#top {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.button {
+    font-size: 17px;
+    background: #d96226;
+    padding: 15px 30px; margin-left: 40%;
+    max-width: 171px;
+    width: 100%;
+    height: 48px;
+    
+   
+    font-weight: 400;
+    text-align: center;
+    color: #fff;
+    border-radius: 30px;
+}
+
+
+
+#sansan{
+    height: 54%;
+
+}
+
+#honey {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: whitesmoke;
+    color: black;
+    position: relative;
+    background: #fff;
+
+}
+
+#honey h1 {
+    color: black;
+    font-weight: bold;
+    position: absolute;
+    top: 20px;
+
+}
+
+#honey button {
+    font-size: 17px;
+    background: #d96226;
+    max-width: 171px;
+    width: 100%;
+    height: 48px;
+    display: block;
+    line-height: 48px;
+    transition: ease-in all .5s;
+    font-weight: 400;
+    text-align: center;
+    color: #fff;
+    border-radius: 30px;
+}
+
+#gr {
+    display: grid;
+    grid-template-columns: auto;
+    
+    text-align: center;
+    color: black;
+    position: relative;
+
+}
+
+#quality {
+    position: absolute;
+    
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: #fff;
+    justify-content: center;
+}
+
+#quality h1 {
+    font-size: 45px;
+    font-weight: 700;
+}
+
+#hony1 {
+    display: grid;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    grid-template-columns: auto auto auto auto;
+    margin: auto;
+    padding-top: 20px;
+    padding-left: 20px;
+    gap: 20px;
+
+    justify-content: center;
+}
+
+#hony h1 {
+    font-size: 45px;
+    font-weight: 700;
+    background: #fff;
+    height: 262px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    
+    
+   
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+#honey h1 {
+    font-size: 45px;
+    font-weight: 700;
+}
+
+#hony2 {
+    grid-template-columns: auto auto auto auto;
+    margin-top: 60px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+   
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+#hony3 {
+    margin-top: 60px;
+    background: #fff;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    width: 100%;
+    max-width: 262px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+#more {
+    display: grid;
+    grid-template-columns: auto;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+}
+
+#see {
+    font-size: 18px;
+    transition: ease-in all .5s;
+    background-color: #d96226;
+    text-transform: uppercase;
+    color: #fff;
+    max-width: 202px;
+    width: 100%;
+    display: block;
+    margin-top: 40px;
+    font-weight: 600;
+    height: 58px;
+    border-radius: 40px;
+    padding: 13px 0;
+    margin: 0 auto;
+
+
+}
+
+#contact {
+    font-size: 45px;
+    color: #fff;
+    line-height: 50px;
+    font-weight: 700;
+    padding: 0;
+    display: inline-block;
+}
+
+#name {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.contactus {
+
+    padding: 0 25px;
+    margin-bottom: 20px;
+    width: 50%;
+    height: 80px;
+    background: 0 0;
+    color: #fafbfc;
+    font-size: 17px;
+    font-weight: 400;
+    border: #c0b1ad solid 1px;;
+}
+
+.textarea {
+    padding: 0 25px;
+    margin-bottom: 20px;
+    width: 50%;
+    height: 80px;
+    background: 0 0;
+    color: #fafbfc;
+    font-size: 17px;
+    font-weight: 400;
+    border: #c0b1ad solid 1px;
+}
+
+
+#number {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+
+}
+
+#more1 {
+    display: grid;
+    grid-template-columns: auto;
+    text-align: center;
+
+
+}
+
+#send {
+    font-size: 18px;
+    transition: ease-in all .5s;
+    background-color: #d96226;
+    text-transform: uppercase;
+    color: #fff;
+    max-width: 202px;
+    width: 100%;
+    display: block;
+    margin-top: 40px;
+    font-weight: 600;
+    height: 58px;
+    border-radius: 40px;
+    padding: 13px 0;
+    margin: 0 auto;
+}
+#last{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.your{
+    margin-bottom: 15px;
+    width: 50%;
+    height: 48px;
+    border-radius: 10px;
+    background: #fff;
+    color: #9e9c9c;
+    font-size: 17px;
+    font-weight: 400;
+    border: inherit;
+    padding: 0 15px;
+}
+.mail{
+    margin-bottom: 15px;
+    width: 50%;
+    height: 48px;
+    background: #fff;
+    color: #9e9c9c;
+    font-size: 17px;
+    font-weight: 400;
+    border: inherit;
+    padding: 0 15px;
+    border-radius: 10px;
+
+}
+.sub{
+    font-size: 17px;
+    transition: ease-in all .5s;
+    background-color: #d96226;
+    color: #fff;
+    max-width: 270px;
+    width: 100%;
+    display: block;
+    height: 48px;
+    float: right;
+    line-height: 48px;
+    border-radius: 10px;
+}
